@@ -4,7 +4,7 @@
 
 
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/krishna-kryss](https://www.linkedin.com/in/krishna-yadav-b39a8b250)/">
+  <a href="https://www.linkedin.com/in/krishna-yadav-b39a8b250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
@@ -31,7 +31,7 @@ I am a Python and Java Developer from Nepal.
 
 - :zap: In my free time, I love exploring new technologies and enjoying scenarios.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/Krishna-yadav](https://www.linkedin.com/in/krishna-yadav-b39a8b250)/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-yadav-b39a8b250/)
 
 
 ---
