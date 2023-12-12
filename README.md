@@ -4,7 +4,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/krishna-yadav-b39a8b250/">
+  <a href="www.linkedin.com/in/KryssNa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
@@ -31,7 +31,7 @@ I am a Python and Java Developer from Nepal.
 
 - :zap: In my free time, I love exploring new technologies and enjoying scenarios.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-yadav-b39a8b250/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/KryssNa)
 
 
 ---
@@ -61,5 +61,5 @@ https://github-readme-streak-stats.herokuapp.com/?user=KryssNa
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KryssNa&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryssNa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryssNa&layout=compact&theme=vision-friendly-dark)](https://github.com/KryssNa/github-readme-stats)
 
