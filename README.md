@@ -31,7 +31,7 @@ I am a Python and Java Developer from Nepal.
 
 - :zap: In my free time, I love exploring new technologies and enjoying scenarios.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/KryssNa)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kryssna/)
 
 
 ---
