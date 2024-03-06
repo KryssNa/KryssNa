@@ -52,7 +52,7 @@ I am a Python and Java Developer from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ---
 
@@ -64,5 +64,5 @@ https://github-readme-streak-stats.herokuapp.com/?user=KryssNa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryssNa&layout=compact&theme=vision-friendly-dark)](https://github.com/KryssNa/github-readme-stats)
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ---
