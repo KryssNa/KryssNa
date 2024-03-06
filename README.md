@@ -51,10 +51,17 @@ I am a Python and Java Developer from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=KryssNa
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KryssNa&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryssNa&layout=compact&theme=vision-friendly-dark)](https://github.com/KryssNa/github-readme-stats)
+
+
+---
