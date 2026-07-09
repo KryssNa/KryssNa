@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-> **Senior Full Stack Developer** passionate about building scalable AI-driven solutions and cloud-native applications
+> **Senior Full Stack Engineer** passionate about building scalable AI-driven solutions and cloud-native applications
 
 ```typescript
 const shankar = {
@@ -82,14 +82,14 @@ const shankar = {
 ## 💼 Professional Journey
 
 ### 🎵 Current Role
-**Full Stack Engineer** @ MusicGPT *(May 2025 - Present)*
+**Senior Full Stack Engineer** @ MusicGPT *(May 2025 - Present)*
 - 🎼 Building revolutionary AI-powered music generation applications
 - 🔊 Developing advanced audio processing and music technology solutions
 - 🎹 Creating intuitive interfaces for music creators and AI enthusiasts
 - 🚀 Implementing cutting-edge machine learning models for music composition
 
 ### 🌟 Previous Experiences
-**Senior Full Stack Developer** @ Industry Rockstar Studios *(April 2025 - April 2025)*
+**Senior Full Stack Engineer** @ Industry Rockstar Studios *(April 2025 - April 2025)*
 - 🤖 Led AI automation tool development with Python, OpenAI API, and DeepSeek
 - 🏗️ Architected scalable web platforms with LLM integration and microservices
 - 🚀 Spearheaded product innovation in AI-driven solutions
